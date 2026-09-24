@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Vivaz 021
+
+  structure:
+    - type: space
+      key: vivaz-021
+      title: Vivaz 021
+      path: /
+      default: true
+      content:
+        directory: ./
